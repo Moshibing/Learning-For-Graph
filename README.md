@@ -7,6 +7,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
 - Park et al_2024 - Forward Learning of Graph Neural Networks, ICLR 2024
 - (also in 图数据label稀缺-不平衡-噪声)GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
+- Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
 
 ### graph生成-重建-粗化-识别
 
@@ -38,6 +39,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Wang 和 Kleinberg - 2024 - FROM GRAPHS TO HYPERGRAPHS: HYPERGRAPH PROJECTION AND ITS RECONSTRUCTION, ICLR 2024
 - Yan 等 - 2024 - HYPERGRAPH DYNAMIC SYSTEM, ICLR 2024
 - Zhou et al_2023_SlotGAT: Slot-based Message Passing for Heterogeneous Graphs, ICML 2023
+- (also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
 
 ### 图推理
 
