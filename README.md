@@ -22,6 +22,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Han 等 - 2024 - STRUCTURAL FAIRNESS-AWARE ACTIVE LEARNING FOR GRAPH NEURAL NETWORKS, ICLR 2024
 - Zheng 和 Wen - 2024 - ONLINE GNN EVALUATION UNDER TEST-TIME GRAPH DISTRIBUTION SHIFTS, ICLR 2024
 - Zhuo 等 - 2024 - PARTITIONING MESSAGE PASSING FOR GRAPH FRAUD DETECTION, ICLR 2024
+- GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 
 ### 过平滑问题
 
