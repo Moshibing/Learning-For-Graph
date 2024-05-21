@@ -3,7 +3,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 
 ### OOD问题(泛化-迁移-鲁棒)
 
-[Contribution guidelines for this project](OOD问题(泛化-迁移-鲁棒)/Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs.pdf)
+- Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs
 
 ### graph生成-重建-粗化-识别
 
