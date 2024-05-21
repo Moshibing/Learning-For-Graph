@@ -6,6 +6,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs, TPAMI 2024
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
 - Park et al_2024 - Forward Learning of Graph Neural Networks, ICLR 2024
+- (also in 图数据label稀缺-不平衡-噪声)GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 
 ### graph生成-重建-粗化-识别
 
