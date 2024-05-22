@@ -73,6 +73,8 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 + (Dynamic Graph)Towards Better Dynamic Graph Learning: New Architecture and Unified Library, NIPS 2023
 + (Dynamic Graph)Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, NIPS 2023
 
+- (Heterogeneous)(Dynamic Graph)GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets, ICML 2023
+
 
 ### 图推理
 
