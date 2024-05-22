@@ -88,6 +88,9 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Efficient Learning of Linear Graph Neural Networks via Node Subsampling, NIPS 2023
 - Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling, NIPS 2023
 - SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations, NIPS 2023
+- Graph Neural Tangent Kernel: Convergence on Large Graphs, ICML 2023
+- GOAT: A Global Transformer on Large-scale Graphs, ICML 2023
+- LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation, ICML 2023
 
 ### 可解释性问题
 
