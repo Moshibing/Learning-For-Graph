@@ -52,19 +52,20 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 
 ### 异构图-超图-时空图等复杂图学习
 
-- Liu 等 - 2024 - VBH-GNN: VARIATIONAL BAYESIAN HETEROGE- NEOUS GRAPH NEURAL NETWORKS FOR CROSS- SUBJECT EMOTION RECOGNITION, ICLR 2024
-- Melton_Krishnan_2023_muxGNN: Multiplex Graph Neural Network for Heterogeneous Graphs, TPAMI 2023
-- Wang et al_2023_From Hypergraph Energy Functions to Hypergraph Neural Networks, ICML 2023
-- Wang 和 Kleinberg - 2024 - FROM GRAPHS TO HYPERGRAPHS: HYPERGRAPH PROJECTION AND ITS RECONSTRUCTION, ICLR 2024
-- Yan 等 - 2024 - HYPERGRAPH DYNAMIC SYSTEM, ICLR 2024
-- Zhou et al_2023_SlotGAT: Slot-based Message Passing for Heterogeneous Graphs, ICML 2023
-- (also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
-- (also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
-- Towards Better Dynamic Graph Learning: New Architecture and Unified Library, NIPS 2023
-- Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, NIPS 2023
-- Duta 等 - Sheaf Hypergraph Networks, NIPS 2023
-- HYTREL: Hypergraph-enhanced Tabular Data Representation Learning, NIPS 2023
-- CAt-Walk: Inductive Hypergraph Learning via Set Walks, NIPS 2023
+- (Heterogeneous)Liu 等 - 2024 - VBH-GNN: VARIATIONAL BAYESIAN HETEROGE- NEOUS GRAPH NEURAL NETWORKS FOR CROSS- SUBJECT EMOTION RECOGNITION, ICLR 2024
+- (Heterogeneous)Melton_Krishnan_2023_muxGNN: Multiplex Graph Neural Network for Heterogeneous Graphs, TPAMI 2023
+- (Heterogeneous)Zhou et al_2023_SlotGAT: Slot-based Message Passing for Heterogeneous Graphs, ICML 2023
+- (Hypergraph)Wang et al_2023_From Hypergraph Energy Functions to Hypergraph Neural Networks, ICML 2023
+- (Hypergraph)Wang 和 Kleinberg - 2024 - FROM GRAPHS TO HYPERGRAPHS: HYPERGRAPH PROJECTION AND ITS RECONSTRUCTION, ICLR 2024
+- (Hypergraph)Yan 等 - 2024 - HYPERGRAPH DYNAMIC SYSTEM, ICLR 2024
+- (Hypergraph)Duta 等 - Sheaf Hypergraph Networks, NIPS 2023
+- (Hypergraph)HYTREL: Hypergraph-enhanced Tabular Data Representation Learning, NIPS 2023
+- (Hypergraph)CAt-Walk: Inductive Hypergraph Learning via Set Walks, NIPS 2023
+- (Dynamic Graph)(also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
+- (Dynamic Graph)(also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
+- (Dynamic Graph)Towards Better Dynamic Graph Learning: New Architecture and Unified Library, NIPS 2023
+- (Dynamic Graph)Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, NIPS 2023
+
 
 ### 图推理
 
