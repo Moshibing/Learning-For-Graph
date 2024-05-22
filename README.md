@@ -48,6 +48,11 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Zhou et al_2023_SlotGAT: Slot-based Message Passing for Heterogeneous Graphs, ICML 2023
 - (also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
 - (also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
+- Towards Better Dynamic Graph Learning: New Architecture and Unified Library, NIPS 2023
+- Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, NIPS 2023
+- Duta 等 - Sheaf Hypergraph Networks, NIPS 2023
+- HYTREL: Hypergraph-enhanced Tabular Data Representation Learning, NIPS 2023
+- CAt-Walk: Inductive Hypergraph Learning via Set Walks, NIPS 2023
 
 ### 图推理
 
@@ -55,6 +60,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - He 等 - 2024 - HARNESSING EXPLANATIONS: LLM-TO-LM INTER- PRETER FOR ENHANCED TEXT-ATTRIBUTED GRAPH REPRESENTATION LEARNING, ICLR 2024
 - Liu 等 - 2024 - ONE FOR ALL: TOWARDS TRAINING ONE GRAPH MODEL FOR ALL CLASSIFICATION TASKS, ICLR 2024
 - Luo 等 - 2024 - REASONING ON GRAPHS: FAITHFUL AND INTER- PRETABLE LARGE LANGUAGE MODEL REASONING, ICLR 2024
+- LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings, ICLR 2024
 
 
 ### 可解释性问题
