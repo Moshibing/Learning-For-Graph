@@ -88,7 +88,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - (Heterogeneous)(Dynamic Graph)GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets, ICML 2023
 
 
-### :fire: :fire: :fire:图推理
+### :fire: :fire: :fire: 图推理
 
 - Fatemi 等 - 2024 - TALK LIKE A GRAPH ENCODING GRAPHS FOR LARGE LANGUAGE MODEL, ICLR 2024
 - He 等 - 2024 - HARNESSING EXPLANATIONS: LLM-TO-LM INTER- PRETER FOR ENHANCED TEXT-ATTRIBUTED GRAPH REPRESENTATION LEARNING, ICLR 2024
