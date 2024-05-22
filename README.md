@@ -8,6 +8,13 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Park et al_2024 - Forward Learning of Graph Neural Networks, ICLR 2024
 - (also in 图数据label稀缺-不平衡-噪声)GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 - Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
+- Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
+- SPA: A Graph Spectral Alignment Perspective for Domain Adaptation, NIPS 2023
+- Learning Invariant Representations of Graph Neural Networks via Cluster Generalization, NIPS 2023
+- Graph-Structured Gaussian Processes for Transferable Graph Learning, NIPS 2023
+- WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding, NIPS 2023
+- Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization, NIPS 2023
+- Universal Prompt Tuning for Graph Neural Networks, NIPS 2023
 
 ### graph生成-重建-粗化-识别
 
@@ -40,6 +47,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Yan 等 - 2024 - HYPERGRAPH DYNAMIC SYSTEM, ICLR 2024
 - Zhou et al_2023_SlotGAT: Slot-based Message Passing for Heterogeneous Graphs, ICML 2023
 - (also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
+- (also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
 
 ### 图推理
 
