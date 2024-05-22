@@ -1,7 +1,7 @@
 # Learning-For-Graph
 Using Optimizate Method(including LLM， GNNs and other classical method) to solve some problem of complex graph.
 
-### OOD问题(泛化-迁移-鲁棒)
+### :fire: :fire: :fire:OOD问题(泛化-迁移-鲁棒)
 
 - Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs, TPAMI 2024
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
@@ -26,7 +26,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure, ICML 2023
 
 
-### 同质性假设约束
+### :fire: :fire: 同质性假设约束
 
 - Chen 等 - 2024 - POLYGCL GRAPH CONTRASTIVE LEARNING VIA LEARNABLE, ICLR 2024
 - Zheng 等 - 2024 - Node-Oriented Spectral Filtering for Graph Neural Network, ICLR 2024
@@ -56,7 +56,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Towards Understanding and Reducing Graph Structural Noise for GNNs, ICML 2023
 - CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification, ICML 2023
 
-### 过平滑问题
+### :fire: :fire: 过平滑问题
 
 - Barbero 等 - 2024 - LOCALITY-AWARE GRAPH REWIRING IN GNNS, ICLR 2024
 - Graph Convolutional Kernel Machine versus Graph Convolutional Networks, NIPS 2023
@@ -67,7 +67,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering, ICML 2023
 - GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 
-### 异构图-超图-时空图等复杂图学习
+### :fire: :fire: 异构图-超图-时空图等复杂图学习
 
 - (Heterogeneous)Liu 等 - 2024 - VBH-GNN: VARIATIONAL BAYESIAN HETEROGE- NEOUS GRAPH NEURAL NETWORKS FOR CROSS- SUBJECT EMOTION RECOGNITION, ICLR 2024
 - (Heterogeneous)Melton_Krishnan_2023_muxGNN: Multiplex Graph Neural Network for Heterogeneous Graphs, TPAMI 2023
@@ -88,7 +88,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - (Heterogeneous)(Dynamic Graph)GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets, ICML 2023
 
 
-### :fire: 图推理
+### :fire: :fire: :fire:图推理
 
 - Fatemi 等 - 2024 - TALK LIKE A GRAPH ENCODING GRAPHS FOR LARGE LANGUAGE MODEL, ICLR 2024
 - He 等 - 2024 - HARNESSING EXPLANATIONS: LLM-TO-LM INTER- PRETER FOR ENHANCED TEXT-ATTRIBUTED GRAPH REPRESENTATION LEARNING, ICLR 2024
@@ -96,7 +96,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Luo 等 - 2024 - REASONING ON GRAPHS: FAITHFUL AND INTER- PRETABLE LARGE LANGUAGE MODEL REASONING, ICLR 2024
 - LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings, ICLR 2024
 
-### large-scale graph learning
+### :fire: :fire: large-scale graph learning
 
 - Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach, NIPS 2023
 - Efficient Learning of Linear Graph Neural Networks via Node Subsampling, NIPS 2023
