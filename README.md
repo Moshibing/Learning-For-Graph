@@ -6,7 +6,6 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs, TPAMI 2024
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
 - Park et al_2024 - Forward Learning of Graph Neural Networks, ICLR 2024
-- (also in 图数据label稀缺-不平衡-噪声)GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 - Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
 - Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
 - SPA: A Graph Spectral Alignment Perspective for Domain Adaptation, NIPS 2023
@@ -15,9 +14,10 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding, NIPS 2023
 - Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization, NIPS 2023
 - Universal Prompt Tuning for Graph Neural Networks, NIPS 2023
-- (also in 图数据少样本学习)CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification, ICML 2023
 - Structural Re-weighting Improves Graph Domain Adaptation, ICML 2023
 - Towards Understanding Generalization of Graph Neural Networks, ICML 2023
+- (also in 图数据label稀缺-不平衡-噪声)GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
+- (also in 图数据少样本学习)CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification, ICML 2023
 
 ### graph生成-重建-粗化-识别
 
@@ -35,8 +35,8 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, NIPS 2023
 - When Do Graph Neural Networks Help with Node Classiﬁcation? Investigating the Impact of Homophily Principle on Node Distinguishability, NIPS 2023
 - Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily, NIPS 2023
-- (also in 过平衡问题)GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 - Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs, ICML 2023
+- (also in 过平衡问题)GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 
 ### :fire: :fire: :fire: 图数据label稀缺-不平衡-噪声-少(零)样本
 
@@ -80,10 +80,10 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 * (Hypergraph)HYTREL: Hypergraph-enhanced Tabular Data Representation Learning, NIPS 2023
 * (Hypergraph)CAt-Walk: Inductive Hypergraph Learning via Set Walks, NIPS 2023
 
-+ (Dynamic Graph)(also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
-+ (Dynamic Graph)(also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
 + (Dynamic Graph)Towards Better Dynamic Graph Learning: New Architecture and Unified Library, NIPS 2023
 + (Dynamic Graph)Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs, NIPS 2023
++ (Dynamic Graph)(also in OOD问题)Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
++ (Dynamic Graph)(also in OOD问题)Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
 
 - (Heterogeneous)(Dynamic Graph)GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets, ICML 2023
 
