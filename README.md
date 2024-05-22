@@ -30,6 +30,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, NIPS 2023
 - When Do Graph Neural Networks Help with Node Classiﬁcation? Investigating the Impact of Homophily Principle on Node Distinguishability, NIPS 2023
 - Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily, NIPS 2023
+- (also in 过平衡问题)GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 
 ### 图数据label稀缺-不平衡-噪声-少(零)样本
 
@@ -54,6 +55,11 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Barbero 等 - 2024 - LOCALITY-AWARE GRAPH REWIRING IN GNNS, ICLR 2024
 - Graph Convolutional Kernel Machine versus Graph Convolutional Networks, NIPS 2023
 - Demystifying Oversmoothing in Attention-Based Graph Neural Networks, NIPS 2023
+- Improving Graph Neural Networks with Learnable Propagation Operators, ICML 2023
+- Towards Deep Attention in Graph Neural Networks: Problems and Remedies, ICML 2023
+- Path Neural Networks: Expressive and Accurate Graph Neural Networks, ICML 2023
+- Towards Better Graph Representation Learning with Parameterized Decomposition & Filtering, ICML 2023
+- GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 
 ### 异构图-超图-时空图等复杂图学习
 
