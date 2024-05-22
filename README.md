@@ -25,6 +25,11 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 
 - Chen 等 - 2024 - POLYGCL GRAPH CONTRASTIVE LEARNING VIA LEARNABLE, ICLR 2024
 - Zheng 等 - 2024 - Node-Oriented Spectral Filtering for Graph Neural Network, ICLR 2024
+- Simple and Asymmetric Graph Contrastive Learning without Augmentations, NIPS 2023
+- Affinity-Aware Graph Networks, NIPS 2023
+- Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All?, NIPS 2023
+- When Do Graph Neural Networks Help with Node Classiﬁcation? Investigating the Impact of Homophily Principle on Node Distinguishability, NIPS 2023
+- Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily, NIPS 2023
 
 ### 图数据label稀缺-不平衡-噪声
 
