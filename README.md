@@ -33,6 +33,11 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Zhuo 等 - 2024 - PARTITIONING MESSAGE PASSING FOR GRAPH FRAUD DETECTION, ICLR 2024
 - GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 - Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First, NIPS 2023
+- Towards Label Position Bias in Graph Neural Networks, NIPS 2023
+- Neural Relation Graph: A Unified Framework for Identifying Label Noise and Outlier Data, NIPS 2023
+- No Change, No Gain: Empowering Graph Neural Networks with Expected Model Chang, NIPS 2023
+- Wang 等 - Deep Insights into Noisy Pseudo Labeling on Graph, NIPS 2023
+- Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks, NIPS 2023
 
 ### 过平滑问题
 
