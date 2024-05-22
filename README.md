@@ -60,3 +60,5 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 ### 可解释性问题
 
 - Shin et_al_2024 - PAGE: Prototype-Based Model-Level Explanations for Graph Neural Networks, TPAMI 2024
+- Provable Training for Graph Contrastive Learning, NIPS 2023
+- D4Explainer: In-Distribution GNN Explanations via Discrete Denoising Diffusion, NIPS 2023
