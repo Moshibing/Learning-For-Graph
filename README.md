@@ -43,6 +43,11 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - No Change, No Gain: Empowering Graph Neural Networks with Expected Model Chang, NIPS 2023
 - Wang 等 - Deep Insights into Noisy Pseudo Labeling on Graph, NIPS 2023
 - Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks, NIPS 2023
+- Leveraging Label Non-Uniformity for Node Classification in Graph Neural Networks, ICML 2023
+- When Sparsity Meets Contrastive Models: Less Graph Data Can Bring Better Class-Balanced Representations, ICML 2023
+- Disentangled Multiplex Graph Representation Learning, ICML 2023
+- Towards Understanding and Reducing Graph Structural Noise for GNNs, ICML 2023
+- CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification, ICML 2023
 
 ### 过平滑问题
 
