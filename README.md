@@ -1,7 +1,7 @@
 # Learning-For-Graph
 Using Optimizate Method(including LLM， GNNs and other classical method) to solve some problem of complex graph.
 
-### :fire: :fire: :fire:OOD问题(泛化-迁移-鲁棒)
+### :fire: :fire: :fire: OOD问题(泛化-迁移-鲁棒)
 
 - Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs, TPAMI 2024
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
@@ -96,7 +96,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Luo 等 - 2024 - REASONING ON GRAPHS: FAITHFUL AND INTER- PRETABLE LARGE LANGUAGE MODEL REASONING, ICLR 2024
 - LD2: Scalable Heterophilous Graph Neural Network with Decoupled Embeddings, ICLR 2024
 
-### :fire: :fire: large-scale graph learning
+### :fire: large-scale graph learning
 
 - Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach, NIPS 2023
 - Efficient Learning of Linear Graph Neural Networks via Node Subsampling, NIPS 2023
