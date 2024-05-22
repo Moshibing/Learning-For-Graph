@@ -38,7 +38,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - (also in 过平衡问题)GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
 - Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs, ICML 2023
 
-### 图数据label稀缺-不平衡-噪声-少(零)样本
+:fire: :fire: :fire:### 图数据label稀缺-不平衡-噪声-少(零)样本
 
 - Han 等 - 2024 - STRUCTURAL FAIRNESS-AWARE ACTIVE LEARNING FOR GRAPH NEURAL NETWORKS, ICLR 2024
 - Zheng 和 Wen - 2024 - ONLINE GNN EVALUATION UNDER TEST-TIME GRAPH DISTRIBUTION SHIFTS, ICLR 2024
@@ -88,7 +88,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - (Heterogeneous)(Dynamic Graph)GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets, ICML 2023
 
 
-### :fire:图推理
+:fire:### 图推理
 
 - Fatemi 等 - 2024 - TALK LIKE A GRAPH ENCODING GRAPHS FOR LARGE LANGUAGE MODEL, ICLR 2024
 - He 等 - 2024 - HARNESSING EXPLANATIONS: LLM-TO-LM INTER- PRETER FOR ENHANCED TEXT-ATTRIBUTED GRAPH REPRESENTATION LEARNING, ICLR 2024
