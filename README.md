@@ -15,10 +15,15 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding, NIPS 2023
 - Joint Learning of Label and Environment Causal Independence for Graph Out-of-Distribution Generalization, NIPS 2023
 - Universal Prompt Tuning for Graph Neural Networks, NIPS 2023
+- (also in 图数据少样本学习)CoCo: A Coupled Contrastive Framework for Unsupervised Domain Adaptive Graph Classification, ICML 2023
+- Structural Re-weighting Improves Graph Domain Adaptation, ICML 2023
+- Towards Understanding Generalization of Graph Neural Networks, ICML 2023
 
 ### graph生成-重建-粗化-识别
 
 - Yu 等 - 2024 - Recognizing Predictive Substructures With Subgraph, TPAMI 2024
+- Autoregressive Diffusion Model for Graph Generation, ICML 2023
+- Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure, ICML 2023
 
 
 ### 同质性假设约束
