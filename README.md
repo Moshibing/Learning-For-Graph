@@ -31,6 +31,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - When Do Graph Neural Networks Help with Node Classiﬁcation? Investigating the Impact of Homophily Principle on Node Distinguishability, NIPS 2023
 - Predicting Global Label Relationship Matrix for Graph Neural Networks under Heterophily, NIPS 2023
 - (also in 过平衡问题)GREAD: Graph Neural Reaction-Diffusion Networks, ICML 2023
+- Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs, ICML 2023
 
 ### 图数据label稀缺-不平衡-噪声-少(零)样本
 
