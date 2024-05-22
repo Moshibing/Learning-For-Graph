@@ -67,6 +67,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach, NIPS 2023
 - Efficient Learning of Linear Graph Neural Networks via Node Subsampling, NIPS 2023
 - Graph Mixture of Experts: Learning on Large-Scale Graphs with Explicit Diversity Modeling, NIPS 2023
+- SGFormer: Simplifying and Empowering Transformers for Large-Graph Representations, NIPS 2023
 
 ### 可解释性问题
 
