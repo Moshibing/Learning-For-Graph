@@ -47,6 +47,8 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 ### 过平滑问题
 
 - Barbero 等 - 2024 - LOCALITY-AWARE GRAPH REWIRING IN GNNS, ICLR 2024
+- Graph Convolutional Kernel Machine versus Graph Convolutional Networks, NIPS 2023
+- Demystifying Oversmoothing in Attention-Based Graph Neural Networks, NIPS 2023
 
 ### 异构图-超图-时空图等复杂图学习
 
