@@ -22,7 +22,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 ### graph生成-重建-粗化-识别
 
 - Yu 等 - 2024 - Recognizing Predictive Substructures With Subgraph, TPAMI 2024
-- A Gaph is Worth K words Euclideanizing Graph using Pure Transformer, ICLR 2024
+- A Graph is Worth K words Euclideanizing Graph using Pure Transformer, ICLR 2024
 - Autoregressive Diffusion Model for Graph Generation, ICML 2023
 - Graph Neural Networks can Recover the Hidden Features Solely from the Graph Structure, ICML 2023
 
