@@ -47,6 +47,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Zheng 和 Wen - 2024 - ONLINE GNN EVALUATION UNDER TEST-TIME GRAPH DISTRIBUTION SHIFTS, ICLR 2024
 - Zhuo 等 - 2024 - PARTITIONING MESSAGE PASSING FOR GRAPH FRAUD DETECTION, ICLR 2024
 - Cost-effective Data Labelling for Graph Neural Networks, WWW 2024
+- Towards Expansive and Adaptive Hard Negative Mining: Graph Contrastive Learning via Subspace Preserving, WWW 2024
 - GNNEvaluator: Evaluating GNN Performance On Unseen Graphs Without Labels, NIPS 2023
 - Curriculum Learning for Graph Neural Networks: Which Edges Should We Learn First, NIPS 2023
 - Towards Label Position Bias in Graph Neural Networks, NIPS 2023
