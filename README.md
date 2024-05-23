@@ -6,6 +6,7 @@ Using Optimizate Method(including LLM， GNNs and other classical method) to sol
 - Fan et al_2024_Generalizing Graph Neural Networks on Out-of-Distribution Graphs, TPAMI 2024
 - Guang et al_2024 - Graph Convolutional Networks With Adaptive Neighborhood Awareness, TPAMI 2024
 - Park et al_2024 - Forward Learning of Graph Neural Networks, ICLR 2024
+- MARIO: Model Agnostic Recipe for Improving OOD Generalization of Graph Contrastive Learning, WWW 2024
 - Spectral Invariant Learning for Dynamic Graphs under Distribution Shifts, NIPS 2023
 - Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization, NIPS 2023
 - SPA: A Graph Spectral Alignment Perspective for Domain Adaptation, NIPS 2023
